@@ -44,4 +44,4 @@ A Python application with a graphical user interface (GUI) to search for books o
 Navigate to the repository directory in your terminal and run the main script:
 
 ```bash
-python your_script_name.py
+python book_scraper.py
