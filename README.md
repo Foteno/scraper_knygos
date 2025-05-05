@@ -31,6 +31,7 @@ A Python application with a graphical user interface (GUI) to search for books o
     ```txt
     requests
     beautifulsoup4
+    matplotlib
     ```
 
 3.  **Install dependencies:**
